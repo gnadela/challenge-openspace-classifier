@@ -1,9 +1,9 @@
-# Open Space Organizer
+# Open Space Classifier
 
 
 ## Overview
 
-The Open Space Organizer is a Python program designed to randomly assign people to spots in an open space environment. It helps efficiently distribute people across available tables while ensuring a fair and random allocation.
+The Open Space Classifier is a Python program designed to randomly assign people to spots in an open space environment. It helps efficiently distribute people across available tables while ensuring a fair and random allocation.
 
 ## Features
 
@@ -22,12 +22,12 @@ The Open Space Organizer is a Python program designed to randomly assign people 
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/open-space-organizer.git
+git clone https://github.com/gnadela/challenge-openspace-classifier
 ```
 
 Navigate to the project directory:
 ```bash
-cd open-space-organizer
+cd challenge-openspace-classifier
 ```
 
 ### Usage
