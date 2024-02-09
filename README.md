@@ -38,5 +38,5 @@ Run the main script `main.py` to launch the organizer:
 python main.py
 ```
 
-Follow the prompts to load colleagues' names and organize the open space.
+The current version of the program loads the list of names from the provided `new_colleagues.csv` file. It displays the output on the terminal and stores it in a text file called `openspace_config.txt`.
 
