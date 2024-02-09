@@ -3,13 +3,12 @@
 
 ## Overview
 
-The Open Space Classifier is a Python program designed to randomly assign people to spots in an open space environment. It helps efficiently distribute people across available tables while ensuring a fair and random allocation.
+The Open Space Classifier is a Python program designed to randomly assign people to seats in tables in an open space environment. It helps efficiently distribute people across available tables while ensuring a fair and random seat allocation.
 
 ## Features
 
 - Random assignment of people to seats
 - Support for loading colleagues' names from an Excel file
-- Handling of cases where there are more people than available seats
 
 ## Getting Started
 ### Prerequisites
