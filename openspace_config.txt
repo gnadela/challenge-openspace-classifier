@@ -1,36 +1,36 @@
 Table 1:
-Seat: Occupied by Niels
-Seat: Occupied by Sweta
-Seat: Occupied by Nathalie
-Seat: Occupied by Nasrin
+Seat: Occupied by Alfiya
+Seat: Occupied by Jens
+Seat: Occupied by Em
+Seat: Occupied by Afaf
 
 Table 2:
-Seat: Occupied by Yanina
-Seat: Occupied by Alexander
-Seat: Occupied by Karel
+Seat: Occupied by Alice
 Seat: Occupied by Miguel
+Seat: Occupied by Caroline
+Seat: Occupied by Ivan
 
 Table 3:
-Seat: Occupied by Daryoush
-Seat: Occupied by Em
-Seat: Occupied by Jens
-Seat: Occupied by Alfiya
-
-Table 4:
-Seat: Occupied by Geraldine
-Seat: Occupied by Mahsa
-Seat: Occupied by Viktor
-Seat: Occupied by Caroline
-
-Table 5:
-Seat: Occupied by Gerrit
-Seat: Occupied by Danil
-Seat: Occupied by Afaf
+Seat: Occupied by Nasrin
+Seat: Occupied by Alexander
+Seat: Occupied by extra
 Seat: Occupied by Fabienne
 
-Table 6:
-Seat: Occupied by Alice
+Table 4:
+Seat: Occupied by Karel
+Seat: Occupied by Niels
+Seat: Occupied by Sweta
+Seat: Occupied by Viktor
+
+Table 5:
+Seat: Occupied by Geraldine
 Seat: Occupied by Ariana
-Seat: Occupied by Ivan
+Seat: Occupied by Daryoush
 Seat: Occupied by Andrea
+
+Table 6:
+Seat: Occupied by Yanina
+Seat: Occupied by Nathalie
+Seat: Occupied by Gerrit
+Seat: Occupied by Mahsa
 

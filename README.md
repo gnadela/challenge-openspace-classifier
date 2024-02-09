@@ -1,31 +1,42 @@
-## Challenge: Open space organizer
+# Open Space Organizer
 
 
-# Description
-This is my very first python project as part of the AI and Data Science bootcamp with BeCode
+## Overview
 
-The classroom setup at BeCode is an openspace with 6 table of 4 seats. 
+The Open Space Organizer is a Python program designed to randomly assign people to spots in an open space environment. It helps efficiently distribute people across available tables while ensuring a fair and random allocation.
 
-This project aims to create a program that could be run everyday to (randomly) assign everybody a seat at a table.
+## Features
 
+- Random assignment of people to seats
+- Support for loading colleagues' names from an Excel file
+- Handling of cases where there are more people than available seats
 
-# Installation
-The program is organized as follows:
+## Getting Started
+### Prerequisites
+- Python 3.x installed on your system
+- Required Python packages installed:
+    - `csv` module (included in Python standard library)
+    - `random` module (included in Python standard library)
 
-project_root/
-├── main.py
-└── utils/
-    ├── __init__.py
-    ├── file_utils.py
-    ├── openspace.py
-    └── table.py
+### Installation
 
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/open-space-organizer.git
+```
 
-# Usage
-The program allows you to get a list of colleagues from an excel file and place them randomly on the different tables of the open space.
+Navigate to the project directory:
+```bash
+cd open-space-organizer
+```
 
-Note: The default setup of the open space is 6 tables of 4 seats → 24 seats.
+### Usage
 
-The program can take a filepath as an argument to load the list of colleagues.
-The program distributes randomly the people on the existing tables and says how much seats are left.
-The program can deal with the possibility of having to much people in the room.
+Run the main script `main.py` to launch the organizer:
+
+```bash
+python main.py
+```
+
+Follow the prompts to load colleagues' names and organize the open space.
+
